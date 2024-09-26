@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Web programming (HTML+CSS+JavaScript), Programming Languages (Ocaml, Python) and Introduction to Algorithms and Data Structures (Java)
+- 📫 How to reach me: n.muhanoff@gmail.com
+- 😄 Pronouns: He/him
 <!--
 **nurzhigit-mukhanov/nurzhigit-mukhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
