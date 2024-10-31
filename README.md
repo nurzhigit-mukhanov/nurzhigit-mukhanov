@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Web programming (HTML+CSS+JavaScript), Programming Languages (Ocaml, Python) and Introduction to Algorithms and Data Structures (Java)
+- 🌱 I’m currently learning Mobile App Development (Flutter), Web programming, Programming Languages (Ocaml, Python) and Introduction to Algorithms and Data Structures (Java)
 - 📫 How to reach me: n.muhanoff@gmail.com
 - 😄 Pronouns: He/him
 <!--
